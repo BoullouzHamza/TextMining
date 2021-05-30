@@ -3,7 +3,7 @@ In this project, I will be creating a spam filter using multinomial naive bayes 
 
 The table below lists the datasets, the YouTube video ID, the amount of samples in each class and the total number of samples per dataset.
 
-Dataset --- YouTube ID -- # Spam - # Ham - Total.
+Dataset --- YouTube ID -- # Spam - # Ham - Total /n
 Psy ------- 9bZkp7q19f0 --- 175 --- 175 --- 350
 KatyPerry - CevxZvSJLk8 --- 175 --- 175 --- 350
 LMFAO ----- KQ6zr6kCPj8 --- 236 --- 202 --- 438
